@@ -1,0 +1,55 @@
+.content h1 {
+    color: #213547 !;
+    font-weight: bold;
+  }
+  .card {
+    background-color: #f8f9fa;
+    border-radius: 0;
+    margin-bottom: 10px;
+  }
+  .key {
+    font-weight: bold;
+  }
+  input[type="text"], select{
+    height: 50px;
+    width: 100%;
+    border: 1px solid #ddd;
+    background-color: #f8f9fa !important;
+    margin-bottom: 10px;
+    border-radius: 0 !important;
+  }
+  textarea{
+      height: 100px;
+      width: 100%;
+      border: 1px solid #ddd;
+      background-color: #f8f9fa !important;
+      margin-bottom: 10px; 
+      border-radius: 0 !important;
+  }
+  select{
+    border-radius: 0;
+  }
+  
+  .badge {
+    background-color: green;
+  }
+  .formContent {
+    margin-bottom: 45px;
+  }
+  .taskbtn{
+   float: right;
+  }
+  .taskbtn button {
+    margin-right: 5px;
+  }
+  a {
+    text-decoration: none;
+    color: #2c3e50;
+  }
+  .stl {
+    text-decoration: line-through;
+    color: red;
+  }
+  .link{
+    color: blue;
+  }
